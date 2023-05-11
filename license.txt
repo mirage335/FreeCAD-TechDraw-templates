@@ -1,0 +1,34 @@
+From 'FreeCAD-asm3-Daily-Win-Conda-Py3.10-20221128-x86_64/data/Mod/TechDraw/Templates/USLetter_Landscape.svg' .
+
+License text file at 'FreeCAD-asm3-Daily-Win-Conda-Py3.10-20221128-x86_64\data' applied to other files, NOT 'USLetter_Landscape.svg' .
+
+Presumably inhereits the license of that FreeCAD version, presumably LGPL-2.0-or-later .
+
+
+
+
+
+
+
+
+...
+Original third-party files in this directory were obtained from the above sources.
+
+...
+File and directory names labeled with 'orig' in their names, listed above, or under the 'orig' subdirectory, retain their original licenses, as stated below, unless public domain or fair use.
+
+...
+File and directory names labeled with 'mod' in their names, listed above, or under the 'mod' subdirectory, are modified versions of the original files, and also retain the original license, as stated below, unless public domain or fair use.
+
+...
+In the absense of any license explictly stated here or any prior license, files under this directory are then intended to be public domain.
+
+-
+http://creativecommons.org/publicdomain/zero/1.0/
+To the extent possible under law, mirage335 has waived all copyright and related or neighboring rights to, unless explicitly stated otherwise in this file or copyrighted by other authors, all files in this folder and subfolder. This work is published from: United States.
+Also see CC0_license.txt for details.
+-
+
+
+
+
